@@ -10,14 +10,16 @@
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=000000&center=true&lines=Hello%2C+I'm+KYU;+I'm+a+Android-iOS+developer.)](https://git.io/typing-svg)
   <br/> -->
 </div>
-  
+    <br/><br/>
 ## Blog
 [GO TO BLOG](https://faith-developer.tistory.com)
-  
+   <br/><br/>
 ## GitHub Stats
 [![KYU GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithDeveloper)](https://github.com/anuraghazra/github-readme-stats)
-  
+   <br/><br/>
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,firebase)](https://skillicons.dev)
+ <br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithDeveloper&langs_count=8&exclude_repo=Unix-Programming,Smart-Contract,DataStructure_project,MachineVision,Pintos,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
