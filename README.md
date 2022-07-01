@@ -10,8 +10,8 @@
   <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="50"/>
   -->
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=000000&center=true&lines=Hello%2C+I'm+KYU;+I'm+a+Android-iOS+developer.)](https://git.io/typing-svg)
-  <br/>
+<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=000000&center=true&lines=Hello%2C+I'm+KYU;+I'm+a+Android-iOS+developer.)](https://git.io/typing-svg)
+  <br/> -->
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,firebase)](https://skillicons.dev)
 
 </div>
