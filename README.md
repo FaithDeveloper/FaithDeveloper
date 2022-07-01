@@ -12,7 +12,7 @@
 </div>
     <br/><br/>
 ## Blog
-[GO TO BLOG](https://faith-developer.tistory.com)
+[Click](https://faith-developer.tistory.com)
 
 ## GitHub Stats
 [![KYU GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithDeveloper)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,6 +21,6 @@
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,firebase)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithDeveloper&langs_count=8&exclude_repo=Unix-Programming,Smart-Contract,DataStructure_project,MachineVision,Pintos,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithDeveloper&langs_count=8&exclude_repo=Unix-Programming,Smart-Contract,DataStructure_project,MachineVision,Pintos,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
