@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**FaithDeveloper/FaithDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=02ce89&text=Android&iOS%20Developer&height=150&fontSize=60&desc=KYU&descAlignY=75&descAlign=78)
 
-Here are some ideas to get you started:
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <br/><br/>
+ 
+  <!--
+  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="50"/>
+  -->
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=000000&center=true&lines=Hello%2C+I'm+KYU;+I'm+a+Android&iOS+developer.)](https://git.io/typing-svg)
+  <br/>
+  [![My Skills](https://skillicons.dev/icons?i=android,ios,fava,kotlin,swift,firebase)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
