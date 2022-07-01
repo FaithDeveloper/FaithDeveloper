@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=9C48F7&text=Developer%20😀&height=150&fontSize=60&desc=KYU&descAlignY=75&descAlign=78)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=9C48F7&text=APP%20Developer%20😀&height=150&fontSize=60&desc=KYU&descAlignY=75&descAlign=78)
 
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> -->
 <!--   <br/><br/> -->
