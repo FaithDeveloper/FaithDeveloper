@@ -10,7 +10,7 @@
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=000000&center=true&lines=Hello%2C+I'm+KYU;+I'm+a+Android-iOS+developer.)](https://git.io/typing-svg)
 <br/> -->
   <br/><br/>
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=android,java,kotlin,swift,firebase)](https://skillicons.dev)
   <br/><br/>
 </div>
 
