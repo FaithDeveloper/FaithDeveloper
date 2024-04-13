@@ -12,7 +12,6 @@
   <br/><br/>
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,swift,firebase)](https://skillicons.dev)
   <br/><br/>
-  [![KYU GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithDeveloper)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
